@@ -32,7 +32,7 @@ class AppNavBar extends Component {
   render() {
     return (
       <Navbar color="primary" light expand="md" fixed="top">
-        <NavbarBrand href="/">FoodsUp</NavbarBrand>
+        <NavbarBrand href="/">WeedsUp!</NavbarBrand>
         <NavbarToggler onClick={this.toggle.bind(this)}/>
         <Collapse isOpen={this.state.isOpen} navbar>
           <Nav className="ml-auto" navbar>

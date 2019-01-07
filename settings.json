@@ -1,0 +1,28 @@
+{
+  "public": {
+    "recordsPerPage" : "5",
+    "stripe": "pk_test_S2fvNW9a7JQkB9KXsLOQpfOQ"
+  },
+  "private": {
+    "google": {
+      "clientId": "690237881115-3ddcas3ph4rprfrph43f1efjdhhephgd.apps.googleusercontent.com",
+      "secret": "cnWwq0PPtNfZ5BGHq-RzJyo4"
+    },
+    "facebook": {
+      "appId": "1659474077644874",
+      "secret": "dda4f5f5b8ba414e04935987406a3586"
+    },
+    "github": {
+      "clientId": "33e1b4c05cfba09f8b48",
+      "secret": "a098cf88951a2683fe4005432abf6bf313f3becc"
+    },
+    "stripe": "sk_test_JfEndsCLyIOnk6Y9D1B4UWhD"
+  },
+  "galaxy.meteor.com": {
+    "env": {
+      "ROOT_URL": "http://weedsup.meteorapp.com/",
+      "DEPLOY_HOSTNAME":"us-east-1.galaxy-deploy.meteor.com",
+      "MONGO_URL": "mongodb://chrisciampoli:S33dl3ss!@ds157390.mlab.com:57390/foodsup"
+    }
+  }
+}
